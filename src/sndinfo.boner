@@ -1,0 +1,166 @@
+boner/active1 "Sounds/Boner/Active1.ogg"
+boner/active2 "Sounds/Boner/Active2.ogg"
+boner/active3 "Sounds/Boner/Active3.ogg"
+boner/active4 "Sounds/Boner/Active4.ogg"
+boner/active5 "Sounds/Boner/Active5.ogg"
+boner/active6 "Sounds/Boner/Active6.ogg"
+boner/active7 "Sounds/Boner/Active7.ogg"
+boner/active8 "Sounds/Boner/Active8.ogg"
+boner/active9 "Sounds/Boner/Active9.ogg"
+boner/active10 "Sounds/Boner/Active10.ogg"
+boner/active11 "Sounds/Boner/Active11.ogg"
+boner/active12 "Sounds/Boner/Active12.ogg"
+boner/active13 "Sounds/Boner/Active13.ogg"
+boner/active14 "Sounds/Boner/Active14.ogg"
+boner/active15 "Sounds/Boner/Active15.ogg"
+boner/active16 "Sounds/Boner/Active16.ogg"
+
+$random skeleton/active {
+  boner/active1
+  boner/active2
+  boner/active3
+  boner/active4
+  boner/active5
+  boner/active6
+  boner/active7
+  boner/active8
+  boner/active9
+  boner/active10
+  boner/active11
+  boner/active12
+  boner/active13
+  boner/active14
+  boner/active15
+  boner/active16
+}
+$volume skeleton/active 0.6
+
+boner/sight1 "Sounds/Boner/Sight1.ogg"
+boner/sight2 "Sounds/Boner/Sight2.ogg"
+boner/sight3 "Sounds/Boner/Sight3.ogg"
+boner/sight4 "Sounds/Boner/Sight4.ogg"
+boner/sight5 "Sounds/Boner/Sight5.ogg"
+
+$random skeleton/sight {
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  boner/sight1
+  boner/sight2
+  boner/sight3
+  boner/sight4
+  boner/sight5
+}
+$volume skeleton/sight 0.6
+
+boner/pain1 "Sounds/Boner/Pain1.ogg"
+boner/pain2 "Sounds/Boner/Pain2.ogg"
+boner/pain3 "Sounds/Boner/Pain3.ogg"
+boner/pain4 "Sounds/Boner/Pain4.ogg"
+boner/pain5 "Sounds/Boner/Pain5.ogg"
+boner/pain6 "Sounds/Boner/Pain6.ogg"
+boner/pain7 "Sounds/Boner/Pain7.ogg"
+boner/pain8 "Sounds/Boner/Pain8.ogg"
+boner/pain9 "Sounds/Boner/Pain9.ogg"
+
+$random skeleton/pain {
+  boner/pain1
+  boner/pain2
+  boner/pain3
+  boner/pain4
+  boner/pain5
+  boner/pain6
+  boner/pain7
+  boner/pain8
+  boner/pain9
+}
+$volume skeleton/pain 0.6
+
+boner/death1 "Sounds/Boner/Death1.ogg"
+boner/death2 "Sounds/Boner/Death2.ogg"
+boner/death3 "Sounds/Boner/Death3.ogg"
+boner/death4 "Sounds/Boner/Death4.ogg"
+boner/death5 "Sounds/Boner/Death5.ogg"
+boner/death6 "Sounds/Boner/Death6.ogg"
+boner/death7 "Sounds/Boner/Death7.ogg"
+boner/death8 "Sounds/Boner/Death8.ogg"
+boner/death9 "Sounds/Boner/Death9.ogg"
+boner/death10 "Sounds/Boner/Death10.ogg"
+boner/death11 "Sounds/Boner/Death11.ogg"
+boner/death12 "Sounds/Boner/Death12.ogg"
+boner/death13 "Sounds/Boner/Death13.ogg"
+
+$random skeleton/death {
+  boner/death1
+  boner/death2
+  boner/death3
+  boner/death4
+  boner/death5
+  boner/death6
+  boner/death7
+  boner/death8
+  boner/death9
+  boner/death10
+  boner/death11
+  boner/death12
+  boner/death13
+}
+$volume skeleton/death 0.6
+
+boner/attack1 "Sounds/Boner/Attack1.ogg"
+boner/attack2 "Sounds/Boner/Attack2.ogg"
+boner/attack3 "Sounds/Boner/Attack3.ogg"
+boner/attack4 "Sounds/Boner/Attack4.ogg"
+boner/attack5 "Sounds/Boner/Attack5.ogg"
+boner/attack6 "Sounds/Boner/Attack6.ogg"
+
+$random skeleton/attack {
+  boner/attack1
+  boner/attack2
+  boner/attack3
+  boner/attack4
+  boner/attack5
+  boner/attack6
+}
+
+boner/tracex1 "Sounds/Boner/Tracex1.ogg"
+boner/tracex2 "Sounds/Boner/Tracex2.ogg"
+boner/tracex3 "Sounds/Boner/Tracex3.ogg"
+
+$random skeleton/tracex {
+  boner/tracex1
+  boner/tracex2
+  boner/tracex3
+}
+
+boner/swing1 "Sounds/Boner/Swing1.ogg"
+boner/swing2 "Sounds/Boner/Swing2.ogg"
+boner/swing3 "Sounds/Boner/Swing3.ogg"
+boner/swing4 "Sounds/Boner/Swing4.ogg"
+
+$random skeleton/swing {
+  boner/swing1
+  boner/swing2
+  boner/swing3
+  boner/swing4
+}
+
+boner/melee1 "Sounds/Boner/Melee1.ogg"
+boner/melee2 "Sounds/Boner/Melee2.ogg"
+boner/melee3 "Sounds/Boner/Melee3.ogg"
+boner/melee4 "Sounds/Boner/Melee4.ogg"
+
+$random skeleton/melee {
+  boner/melee1
+  boner/melee2
+  boner/melee3
+  boner/melee4
+}
+$volume skeleton/melee 0.8

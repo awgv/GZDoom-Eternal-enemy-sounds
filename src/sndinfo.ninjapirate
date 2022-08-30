@@ -1,0 +1,161 @@
+ninjapirate/active1 "Sounds/NinjaPirate/Active1.ogg"
+ninjapirate/active2 "Sounds/NinjaPirate/Active2.ogg"
+ninjapirate/active3 "Sounds/NinjaPirate/Active3.ogg"
+ninjapirate/active4 "Sounds/NinjaPirate/Active4.ogg"
+ninjapirate/active5 "Sounds/NinjaPirate/Active5.ogg"
+ninjapirate/active6 "Sounds/NinjaPirate/Active6.ogg"
+ninjapirate/active7 "Sounds/NinjaPirate/Active7.ogg"
+ninjapirate/active8 "Sounds/NinjaPirate/Active8.ogg"
+ninjapirate/active9 "Sounds/NinjaPirate/Active9.ogg"
+ninjapirate/active10 "Sounds/NinjaPirate/Active10.ogg"
+
+$random demon/active {
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  ninjapirate/active1
+  ninjapirate/active2
+  ninjapirate/active3
+  ninjapirate/active4
+  ninjapirate/active5
+  ninjapirate/active6
+  ninjapirate/active7
+  ninjapirate/active8
+  ninjapirate/active9
+  ninjapirate/active10
+}
+$volume demon/active 0.6
+$alias babuin/active demon/active
+
+ninjapirate/sight1 "Sounds/NinjaPirate/Sight1.ogg"
+ninjapirate/sight2 "Sounds/NinjaPirate/Sight2.ogg"
+ninjapirate/sight3 "Sounds/NinjaPirate/Sight3.ogg"
+ninjapirate/sight4 "Sounds/NinjaPirate/Sight4.ogg"
+ninjapirate/sight5 "Sounds/NinjaPirate/Sight5.ogg"
+ninjapirate/sight6 "Sounds/NinjaPirate/Sight6.ogg"
+ninjapirate/sight7 "Sounds/NinjaPirate/Sight7.ogg"
+ninjapirate/sight8 "Sounds/NinjaPirate/Sight8.ogg"
+
+$random demon/sight {
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  ninjapirate/sight1
+  ninjapirate/sight2
+  ninjapirate/sight3
+  ninjapirate/sight4
+  ninjapirate/sight5
+  ninjapirate/sight6
+  ninjapirate/sight7
+  ninjapirate/sight8
+}
+$volume demon/sight 0.6
+$alias babuin/sight demon/sight
+
+ninjapirate/pain1 "Sounds/NinjaPirate/Pain1.ogg"
+ninjapirate/pain2 "Sounds/NinjaPirate/Pain2.ogg"
+ninjapirate/pain3 "Sounds/NinjaPirate/Pain3.ogg"
+ninjapirate/pain4 "Sounds/NinjaPirate/Pain4.ogg"
+ninjapirate/pain5 "Sounds/NinjaPirate/Pain5.ogg"
+
+$random demon/pain {
+  ninjapirate/pain1
+  ninjapirate/pain2
+  ninjapirate/pain3
+  ninjapirate/pain4
+  ninjapirate/pain5
+}
+$volume demon/pain 0.6
+$alias babuin/pain demon/pain
+
+ninjapirate/death1 "Sounds/NinjaPirate/Death1.ogg"
+ninjapirate/death2 "Sounds/NinjaPirate/Death2.ogg"
+ninjapirate/death3 "Sounds/NinjaPirate/Death3.ogg"
+ninjapirate/death4 "Sounds/NinjaPirate/Death4.ogg"
+ninjapirate/death5 "Sounds/NinjaPirate/Death5.ogg"
+ninjapirate/death6 "Sounds/NinjaPirate/Death6.ogg"
+ninjapirate/death7 "Sounds/NinjaPirate/Death7.ogg"
+ninjapirate/death8 "Sounds/NinjaPirate/Death8.ogg"
+
+$random demon/death {
+  ninjapirate/death1
+  ninjapirate/death2
+  ninjapirate/death3
+  ninjapirate/death4
+  ninjapirate/death5
+  ninjapirate/death6
+  ninjapirate/death7
+  ninjapirate/death8
+}
+$volume demon/death 0.6
+$alias babuin/death demon/death
+
+ninjapirate/melee1 "Sounds/NinjaPirate/Melee1.ogg"
+ninjapirate/melee2 "Sounds/NinjaPirate/Melee2.ogg"
+ninjapirate/melee3 "Sounds/NinjaPirate/Melee3.ogg"
+ninjapirate/melee4 "Sounds/NinjaPirate/Melee4.ogg"
+ninjapirate/melee5 "Sounds/NinjaPirate/Melee5.ogg"
+ninjapirate/melee6 "Sounds/NinjaPirate/Melee6.ogg"
+ninjapirate/melee7 "Sounds/NinjaPirate/Melee7.ogg"
+ninjapirate/melee8 "Sounds/NinjaPirate/Melee8.ogg"
+ninjapirate/melee9 "Sounds/NinjaPirate/Melee9.ogg"
+
+$random demon/melee {
+  ninjapirate/melee1
+  ninjapirate/melee2
+  ninjapirate/melee3
+  ninjapirate/melee4
+  ninjapirate/melee5
+  ninjapirate/melee6
+  ninjapirate/melee7
+  ninjapirate/melee8
+  ninjapirate/melee9
+}
+$volume demon/melee 0.6
+$alias babuin/bite demon/melee
+
+babuin/step1 "Sounds/NinjaPirate/Step1.ogg" $attenuation babuin/step1 1.2
+babuin/step2 "Sounds/NinjaPirate/Step2.ogg" $attenuation babuin/step2 1.2
+babuin/step3 "Sounds/NinjaPirate/Step3.ogg" $attenuation babuin/step3 1.2
+babuin/step4 "Sounds/NinjaPirate/Step4.ogg" $attenuation babuin/step4 1.2
+babuin/step5 "Sounds/NinjaPirate/Step5.ogg" $attenuation babuin/step5 1.2
+
+$random babuin/step
+{
+  babuin/step1
+  babuin/step2
+  babuin/step3
+  babuin/step4
+  babuin/step5
+}
+$volume babuin/step 0.06

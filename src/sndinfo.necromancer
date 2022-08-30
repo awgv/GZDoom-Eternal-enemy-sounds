@@ -1,0 +1,63 @@
+necromancer/active1 "Sounds/Necromancer/Active1.ogg"
+necromancer/active2 "Sounds/Necromancer/Active2.ogg"
+necromancer/active3 "Sounds/Necromancer/Active3.ogg"
+necromancer/active4 "Sounds/Necromancer/Active4.ogg"
+necromancer/active5 "Sounds/Necromancer/Active5.ogg"
+necromancer/active6 "Sounds/Necromancer/Active6.ogg"
+necromancer/active7 "Sounds/Necromancer/Active7.ogg"
+
+$random vile/active {
+  necromancer/active1
+  necromancer/active2
+  necromancer/active3
+  necromancer/active4
+  necromancer/active5
+  necromancer/active6
+  necromancer/active7
+}
+$volume vile/active 0.6
+
+necromancer/sight1 "Sounds/Necromancer/Sight1.ogg"
+necromancer/sight2 "Sounds/Necromancer/Sight2.ogg"
+necromancer/sight3 "Sounds/Necromancer/Sight3.ogg"
+necromancer/sight4 "Sounds/Necromancer/Sight4.ogg"
+
+$random vile/sight {
+  necromancer/sight1
+  necromancer/sight2
+  necromancer/sight3
+  necromancer/sight4
+}
+$volume vile/sight 0.6
+
+necromancer/pain1 "Sounds/Necromancer/Pain1.ogg"
+necromancer/pain2 "Sounds/Necromancer/Pain2.ogg"
+necromancer/pain3 "Sounds/Necromancer/Pain3.ogg"
+necromancer/pain4 "Sounds/Necromancer/Pain4.ogg"
+necromancer/pain5 "Sounds/Necromancer/Pain5.ogg"
+necromancer/pain6 "Sounds/Necromancer/Pain6.ogg"
+necromancer/pain7 "Sounds/Necromancer/Pain7.ogg"
+
+$random vile/pain {
+  necromancer/pain1
+  necromancer/pain2
+  necromancer/pain3
+  necromancer/pain4
+  necromancer/pain5
+  necromancer/pain6
+  necromancer/pain7
+}
+$volume vile/pain 0.6
+
+necromancer/death1 "Sounds/Necromancer/Death1.ogg"
+necromancer/death2 "Sounds/Necromancer/Death2.ogg"
+necromancer/death3 "Sounds/Necromancer/Death3.ogg"
+
+$random vile/death {
+  necromancer/death1
+  necromancer/death2
+  necromancer/death3
+}
+$volume vile/death 0.6
+
+$alias vile/curse vile/death

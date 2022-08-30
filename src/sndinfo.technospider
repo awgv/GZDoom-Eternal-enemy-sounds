@@ -1,0 +1,150 @@
+technospider/active1 "Sounds/TechnoSpider/Active1.ogg"
+technospider/active2 "Sounds/TechnoSpider/Active2.ogg"
+technospider/active3 "Sounds/TechnoSpider/Active3.ogg"
+technospider/active4 "Sounds/TechnoSpider/Active4.ogg"
+technospider/active5 "Sounds/TechnoSpider/Active5.ogg"
+technospider/active6 "Sounds/TechnoSpider/Active6.ogg"
+technospider/active7 "Sounds/TechnoSpider/Active7.ogg"
+technospider/active8 "Sounds/TechnoSpider/Active8.ogg"
+technospider/active9 "Sounds/TechnoSpider/Active9.ogg"
+technospider/active10 "Sounds/TechnoSpider/Active10.ogg"
+technospider/active11 "Sounds/TechnoSpider/Active11.ogg"
+
+$random baby/active {
+  technospider/active1
+  technospider/active2
+  technospider/active3
+  technospider/active4
+  technospider/active5
+  technospider/active6
+  technospider/active7
+  technospider/active8
+  technospider/active9
+  technospider/active10
+  technospider/active11
+}
+$volume baby/active 0.6
+
+technospider/sight1 "Sounds/TechnoSpider/Sight1.ogg"
+technospider/sight2 "Sounds/TechnoSpider/Sight2.ogg"
+technospider/sight3 "Sounds/TechnoSpider/Sight3.ogg"
+technospider/sight4 "Sounds/TechnoSpider/Sight4.ogg"
+technospider/sight5 "Sounds/TechnoSpider/Sight5.ogg"
+technospider/sight6 "Sounds/TechnoSpider/Sight6.ogg"
+technospider/sight7 "Sounds/TechnoSpider/Sight7.ogg"
+technospider/sight8 "Sounds/TechnoSpider/Sight8.ogg"
+technospider/sight9 "Sounds/TechnoSpider/Sight9.ogg"
+technospider/sight10 "Sounds/TechnoSpider/Sight10.ogg"
+technospider/sight11 "Sounds/TechnoSpider/Sight11.ogg"
+technospider/sight12 "Sounds/TechnoSpider/Sight12.ogg"
+technospider/sight13 "Sounds/TechnoSpider/Sight13.ogg"
+technospider/sight14 "Sounds/TechnoSpider/Sight14.ogg"
+
+$random baby/sight {
+  technospider/sight1
+  technospider/sight2
+  technospider/sight3
+  technospider/sight4
+  technospider/sight5
+  technospider/sight6
+  technospider/sight7
+  technospider/sight8
+  technospider/sight9
+  technospider/sight10
+  technospider/sight11
+  technospider/sight12
+  technospider/sight13
+  technospider/sight14
+}
+$volume baby/sight 0.6
+
+technospider/pain1 "Sounds/TechnoSpider/Pain1.ogg"
+technospider/pain2 "Sounds/TechnoSpider/Pain2.ogg"
+technospider/pain3 "Sounds/TechnoSpider/Pain3.ogg"
+technospider/pain4 "Sounds/TechnoSpider/Pain4.ogg"
+technospider/pain5 "Sounds/TechnoSpider/Pain5.ogg"
+technospider/pain6 "Sounds/TechnoSpider/Pain6.ogg"
+technospider/pain7 "Sounds/TechnoSpider/Pain7.ogg"
+technospider/pain8 "Sounds/TechnoSpider/Pain8.ogg"
+technospider/pain9 "Sounds/TechnoSpider/Pain9.ogg"
+technospider/pain10 "Sounds/TechnoSpider/Pain10.ogg"
+technospider/pain11 "Sounds/TechnoSpider/Pain11.ogg"
+technospider/pain12 "Sounds/TechnoSpider/Pain12.ogg"
+technospider/pain13 "Sounds/TechnoSpider/Pain13.ogg"
+technospider/pain14 "Sounds/TechnoSpider/Pain14.ogg"
+technospider/pain15 "Sounds/TechnoSpider/Pain15.ogg"
+technospider/pain16 "Sounds/TechnoSpider/Pain16.ogg"
+technospider/pain17 "Sounds/TechnoSpider/Pain17.ogg"
+
+$random baby/pain {
+  technospider/pain1
+  technospider/pain2
+  technospider/pain3
+  technospider/pain4
+  technospider/pain5
+  technospider/pain6
+  technospider/pain7
+  technospider/pain8
+  technospider/pain9
+  technospider/pain10
+  technospider/pain11
+  technospider/pain12
+  technospider/pain13
+  technospider/pain14
+  technospider/pain15
+  technospider/pain16
+  technospider/pain17
+}
+$volume baby/pain 0.6
+
+technospider/death1 "Sounds/TechnoSpider/Death1.ogg"
+technospider/death2 "Sounds/TechnoSpider/Death2.ogg"
+technospider/death3 "Sounds/TechnoSpider/Death3.ogg"
+technospider/death4 "Sounds/TechnoSpider/Death4.ogg"
+technospider/death5 "Sounds/TechnoSpider/Death5.ogg"
+technospider/death6 "Sounds/TechnoSpider/Death6.ogg"
+technospider/death7 "Sounds/TechnoSpider/Death7.ogg"
+technospider/death8 "Sounds/TechnoSpider/Death8.ogg"
+technospider/death9 "Sounds/TechnoSpider/Death9.ogg"
+
+$random baby/death {
+  technospider/death1
+  technospider/death2
+  technospider/death3
+  technospider/death4
+  technospider/death5
+  technospider/death6
+  technospider/death7
+  technospider/death8
+  technospider/death9
+}
+$volume baby/death 0.4
+
+technospider/walk1 "Sounds/TechnoSpider/Walk1.ogg"
+technospider/walk2 "Sounds/TechnoSpider/Walk2.ogg"
+technospider/walk3 "Sounds/TechnoSpider/Walk3.ogg"
+technospider/walk4 "Sounds/TechnoSpider/Walk4.ogg"
+technospider/walk5 "Sounds/TechnoSpider/Walk5.ogg"
+technospider/walk6 "Sounds/TechnoSpider/Walk6.ogg"
+
+$random baby/walk {
+  technospider/walk1
+  technospider/walk2
+  technospider/walk3
+  technospider/walk4
+  technospider/walk5
+  technospider/walk6
+}
+$volume baby/walk 0.12
+
+technospider/plascrack1 "Sounds/TechnoSpider/PLSFIRE1.ogg"
+technospider/plascrack2 "Sounds/TechnoSpider/PLSFIRE2.ogg"
+
+$random weapons/plascrack {
+  technospider/plascrack1
+  technospider/plascrack2
+}
+$volume misc/zap 0.2
+
+weapons/plasidle "Sounds/TechnoSpider/PLASIDLE.ogg" $volume weapons/plasidle 0.6
+weapons/plasmaf "Sounds/TechnoSpider/PLSFIRE2.ogg" $volume weapons/plasmaf 0.2

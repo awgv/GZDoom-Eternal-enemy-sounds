@@ -1,0 +1,83 @@
+satanrobo/active1 "Sounds/SatanRobo/Active1.ogg"
+satanrobo/active2 "Sounds/SatanRobo/Active2.ogg"
+satanrobo/active3 "Sounds/SatanRobo/Active3.ogg"
+satanrobo/active4 "Sounds/SatanRobo/Active4.ogg"
+satanrobo/active5 "Sounds/SatanRobo/Active5.ogg"
+satanrobo/active6 "Sounds/SatanRobo/Active6.ogg"
+satanrobo/active7 "Sounds/SatanRobo/Active7.ogg"
+satanrobo/active8 "Sounds/SatanRobo/Active8.ogg"
+
+$random cyber/active {
+  satanrobo/active1
+  satanrobo/active2
+  satanrobo/active3
+  satanrobo/active4
+  satanrobo/active5
+  satanrobo/active6
+  satanrobo/active7
+  satanrobo/active8
+}
+$volume cyber/active 0.8
+
+satanrobo/sight1 "Sounds/SatanRobo/Sight1.ogg"
+satanrobo/sight2 "Sounds/SatanRobo/Sight2.ogg"
+
+$random cyber/sight {
+  satanrobo/sight1
+  satanrobo/sight2
+}
+
+satanrobo/pain1 "Sounds/SatanRobo/Pain1.ogg"
+satanrobo/pain2 "Sounds/SatanRobo/Pain2.ogg"
+satanrobo/pain3 "Sounds/SatanRobo/Pain3.ogg"
+satanrobo/pain4 "Sounds/SatanRobo/Pain4.ogg"
+
+$random cyber/pain {
+  satanrobo/pain1
+  satanrobo/pain2
+  satanrobo/pain3
+  satanrobo/pain4
+}
+
+satanrobo/death1 "Sounds/SatanRobo/Death1.ogg"
+satanrobo/death2 "Sounds/SatanRobo/Death2.ogg"
+satanrobo/death3 "Sounds/SatanRobo/Death3.ogg"
+
+$random cyber/death {
+  satanrobo/death1
+  satanrobo/death2
+  satanrobo/death3
+}
+
+satanrobo/walk1 "Sounds/SatanRobo/Walk1.ogg"
+
+$random cyber/walk {
+  satanrobo/walk1
+  technorantula/walk1
+  technorantula/walk2
+  technorantula/walk3
+  technorantula/walk4
+  technorantula/walk5
+  technorantula/walk6
+  technorantula/walk7
+}
+$volume cyber/walk 0.16
+
+satanrobo/hoof1 "Sounds/SatanRobo/Hoof1.ogg"
+satanrobo/hoof2 "Sounds/SatanRobo/Hoof2.ogg"
+satanrobo/hoof3 "Sounds/SatanRobo/Hoof3.ogg"
+satanrobo/hoof4 "Sounds/SatanRobo/Hoof4.ogg"
+satanrobo/hoof5 "Sounds/SatanRobo/Hoof5.ogg"
+satanrobo/hoof6 "Sounds/SatanRobo/Hoof6.ogg"
+satanrobo/hoof7 "Sounds/SatanRobo/Hoof7.ogg"
+
+$random cyber/hoof {
+  satanrobo/hoof1
+  satanrobo/hoof2
+  satanrobo/hoof3
+  satanrobo/hoof4
+  satanrobo/hoof5
+  satanrobo/hoof6
+  satanrobo/hoof7
+}
+$volume cyber/hoof 0.16

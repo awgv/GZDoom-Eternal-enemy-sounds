@@ -1,0 +1,204 @@
+combatslug/active1 "Sounds/CombatSlug/Active1.ogg"
+combatslug/active2 "Sounds/CombatSlug/Active2.ogg"
+combatslug/active3 "Sounds/CombatSlug/Active3.ogg"
+combatslug/active4 "Sounds/CombatSlug/Active4.ogg"
+combatslug/active5 "Sounds/CombatSlug/Active5.ogg"
+combatslug/active6 "Sounds/CombatSlug/Active6.ogg"
+combatslug/active7 "Sounds/CombatSlug/Active7.ogg"
+combatslug/active8 "Sounds/CombatSlug/Active8.ogg"
+
+$random fatso/active {
+  combatslug/active1
+  combatslug/active2
+  combatslug/active3
+  combatslug/active4
+  combatslug/active5
+  combatslug/active6
+  combatslug/active7
+  combatslug/active8
+}
+$volume fatso/active 0.6
+
+combatslug/sight1 "Sounds/CombatSlug/Sight1.ogg"
+combatslug/sight2 "Sounds/CombatSlug/Sight2.ogg"
+combatslug/sight3 "Sounds/CombatSlug/Sight3.ogg"
+combatslug/sight4 "Sounds/CombatSlug/Sight4.ogg"
+combatslug/sight5 "Sounds/CombatSlug/Sight5.ogg"
+combatslug/sight6 "Sounds/CombatSlug/Sight6.ogg"
+combatslug/sight7 "Sounds/CombatSlug/Sight7.ogg"
+combatslug/sight8 "Sounds/CombatSlug/Sight8.ogg"
+combatslug/sight9 "Sounds/CombatSlug/Sight9.ogg"
+combatslug/sight10 "Sounds/CombatSlug/Sight10.ogg"
+combatslug/sight11 "Sounds/CombatSlug/Sight11.ogg"
+combatslug/sight12 "Sounds/CombatSlug/Sight12.ogg"
+combatslug/sight13 "Sounds/CombatSlug/Sight13.ogg"
+combatslug/sight14 "Sounds/CombatSlug/Sight14.ogg"
+
+$random fatso/sight {
+  combatslug/sight1
+  combatslug/sight2
+  combatslug/sight3
+  combatslug/sight4
+  combatslug/sight5
+  combatslug/sight6
+  combatslug/sight7
+  combatslug/sight8
+  combatslug/sight9
+  combatslug/sight10
+  combatslug/sight11
+  combatslug/sight12
+  combatslug/sight13
+  combatslug/sight14
+}
+$volume fatso/sight 0.6
+
+combatslug/pain1 "Sounds/CombatSlug/Pain1.ogg"
+combatslug/pain2 "Sounds/CombatSlug/Pain2.ogg"
+combatslug/pain3 "Sounds/CombatSlug/Pain3.ogg"
+combatslug/pain4 "Sounds/CombatSlug/Pain4.ogg"
+combatslug/pain5 "Sounds/CombatSlug/Pain5.ogg"
+combatslug/pain6 "Sounds/CombatSlug/Pain6.ogg"
+combatslug/pain7 "Sounds/CombatSlug/Pain7.ogg"
+combatslug/pain8 "Sounds/CombatSlug/Pain8.ogg"
+combatslug/pain9 "Sounds/CombatSlug/Pain9.ogg"
+combatslug/pain10 "Sounds/CombatSlug/Pain10.ogg"
+combatslug/pain11 "Sounds/CombatSlug/Pain11.ogg"
+combatslug/pain12 "Sounds/CombatSlug/Pain12.ogg"
+combatslug/pain13 "Sounds/CombatSlug/Pain13.ogg"
+combatslug/pain14 "Sounds/CombatSlug/Pain14.ogg"
+combatslug/pain15 "Sounds/CombatSlug/Pain15.ogg"
+combatslug/pain16 "Sounds/CombatSlug/Pain16.ogg"
+combatslug/pain17 "Sounds/CombatSlug/Pain17.ogg"
+combatslug/pain18 "Sounds/CombatSlug/Pain18.ogg"
+combatslug/pain19 "Sounds/CombatSlug/Pain19.ogg"
+combatslug/pain20 "Sounds/CombatSlug/Pain20.ogg"
+combatslug/pain21 "Sounds/CombatSlug/Pain21.ogg"
+combatslug/pain22 "Sounds/CombatSlug/Pain22.ogg"
+combatslug/pain23 "Sounds/CombatSlug/Pain23.ogg"
+combatslug/pain24 "Sounds/CombatSlug/Pain24.ogg"
+combatslug/pain25 "Sounds/CombatSlug/Pain25.ogg"
+combatslug/pain26 "Sounds/CombatSlug/Pain26.ogg"
+combatslug/pain27 "Sounds/CombatSlug/Pain27.ogg"
+combatslug/pain28 "Sounds/CombatSlug/Pain28.ogg"
+combatslug/pain29 "Sounds/CombatSlug/Pain29.ogg"
+combatslug/pain30 "Sounds/CombatSlug/Pain30.ogg"
+combatslug/pain31 "Sounds/CombatSlug/Pain31.ogg"
+combatslug/pain32 "Sounds/CombatSlug/Pain32.ogg"
+
+$random fatso/pain {
+  combatslug/pain1
+  combatslug/pain2
+  combatslug/pain3
+  combatslug/pain4
+  combatslug/pain5
+  combatslug/pain6
+  combatslug/pain7
+  combatslug/pain8
+  combatslug/pain9
+  combatslug/pain10
+  combatslug/pain11
+  combatslug/pain12
+  combatslug/pain13
+  combatslug/pain14
+  combatslug/pain15
+  combatslug/pain16
+  combatslug/pain17
+  combatslug/pain18
+  combatslug/pain19
+  combatslug/pain20
+  combatslug/pain21
+  combatslug/pain22
+  combatslug/pain23
+  combatslug/pain24
+  combatslug/pain25
+  combatslug/pain26
+  combatslug/pain27
+  combatslug/pain28
+  combatslug/pain29
+  combatslug/pain30
+  combatslug/pain31
+  combatslug/pain32
+}
+$volume fatso/pain 0.6
+
+combatslug/death1 "Sounds/CombatSlug/Death1.ogg"
+combatslug/death2 "Sounds/CombatSlug/Death2.ogg"
+combatslug/death3 "Sounds/CombatSlug/Death3.ogg"
+combatslug/death4 "Sounds/CombatSlug/Death4.ogg"
+combatslug/death5 "Sounds/CombatSlug/Death5.ogg"
+combatslug/death6 "Sounds/CombatSlug/Death6.ogg"
+combatslug/death7 "Sounds/CombatSlug/Death7.ogg"
+combatslug/death8 "Sounds/CombatSlug/Death8.ogg"
+combatslug/death9 "Sounds/CombatSlug/Death9.ogg"
+combatslug/death10 "Sounds/CombatSlug/Death10.ogg"
+combatslug/death11 "Sounds/CombatSlug/Death11.ogg"
+combatslug/death12 "Sounds/CombatSlug/Death12.ogg"
+combatslug/death13 "Sounds/CombatSlug/Death13.ogg"
+combatslug/death14 "Sounds/CombatSlug/Death14.ogg"
+
+$random fatso/death {
+  combatslug/death1
+  combatslug/death2
+  combatslug/death3
+  combatslug/death4
+  combatslug/death5
+  combatslug/death6
+  combatslug/death7
+  combatslug/death8
+  combatslug/death9
+  combatslug/death10
+  combatslug/death11
+  combatslug/death12
+  combatslug/death13
+  combatslug/death14
+}
+$volume fatso/death 0.6
+
+combatslug/raiseguns1 "Sounds/CombatSlug/RaiseGuns1.ogg"
+combatslug/raiseguns2 "Sounds/CombatSlug/RaiseGuns2.ogg"
+combatslug/raiseguns3 "Sounds/CombatSlug/RaiseGuns3.ogg"
+
+// Originally `dsmanatk`.
+$random fatso/raiseguns {
+  combatslug/raiseguns1
+  combatslug/raiseguns2
+  combatslug/raiseguns3
+}
+$volume fatso/raiseguns 0.8
+
+combatslug/melee1 "Sounds/CombatSlug/Melee1.ogg"
+combatslug/melee2 "Sounds/CombatSlug/Melee2.ogg"
+combatslug/melee3 "Sounds/CombatSlug/Melee3.ogg"
+combatslug/melee4 "Sounds/CombatSlug/Melee4.ogg"
+
+// Originally `dsfwoosh`, but `weapons/smack` (dspunch) is played right before
+// it, so its melee attack is a combination of both.
+$random mancubus/thrust {
+  combatslug/melee1
+  combatslug/melee2
+  combatslug/melee3
+  combatslug/melee4
+}
+$volume mancubus/thrust 0.8
+
+$alias weapons/smack skeleton/melee
+
+combatslug/step1 "Sounds/CombatSlug/Step1.ogg" $attenuation combatslug/step1 1 $pitchset combatslug/step1 0.4
+combatslug/step2 "Sounds/CombatSlug/Step2.ogg" $attenuation combatslug/step2 1 $pitchset combatslug/step2 0.4
+combatslug/step3 "Sounds/CombatSlug/Step3.ogg" $attenuation combatslug/step3 1 $pitchset combatslug/step3 0.4
+combatslug/step4 "Sounds/CombatSlug/Step4.ogg" $attenuation combatslug/step4 1 $pitchset combatslug/step4 0.4
+combatslug/step5 "Sounds/CombatSlug/Step5.ogg" $attenuation combatslug/step5 1 $pitchset combatslug/step5 0.4
+combatslug/step6 "Sounds/CombatSlug/Step6.ogg" $attenuation combatslug/step6 1 $pitchset combatslug/step6 0.4
+combatslug/step7 "Sounds/CombatSlug/Step7.ogg" $attenuation combatslug/step7 1 $pitchset combatslug/step7 0.4
+
+$random mancubus/step
+{
+  combatslug/step1
+  combatslug/step2
+  combatslug/step3
+  combatslug/step4
+  combatslug/step5
+  combatslug/step6
+  combatslug/step7
+}
+$volume mancubus/step 0.1

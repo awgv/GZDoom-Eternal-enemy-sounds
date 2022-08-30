@@ -1,0 +1,123 @@
+painlord/active1 "Sounds/PainLord/Active1.ogg"
+painlord/active2 "Sounds/PainLord/Active2.ogg"
+painlord/active3 "Sounds/PainLord/Active3.ogg"
+painlord/active4 "Sounds/PainLord/Active4.ogg"
+painlord/active5 "Sounds/PainLord/Active5.ogg"
+painlord/active6 "Sounds/PainLord/Active6.ogg"
+painlord/active7 "Sounds/PainLord/Active7.ogg"
+painlord/active8 "Sounds/PainLord/Active8.ogg"
+painlord/active9 "Sounds/PainLord/Active9.ogg"
+painlord/active10 "Sounds/PainLord/Active10.ogg"
+painlord/active11 "Sounds/PainLord/Active11.ogg"
+
+$random baron/active {
+  painlord/active1
+  painlord/active2
+  painlord/active3
+  painlord/active4
+  painlord/active5
+  painlord/active6
+  painlord/active7
+  painlord/active8
+  painlord/active9
+  painlord/active10
+  painlord/active11
+}
+$volume baron/active 0.6
+
+painlord/sight1 "Sounds/PainLord/Sight1.ogg"
+painlord/sight2 "Sounds/PainLord/Sight2.ogg"
+painlord/sight3 "Sounds/PainLord/Sight3.ogg"
+painlord/sight4 "Sounds/PainLord/Sight4.ogg"
+painlord/sight5 "Sounds/PainLord/Sight5.ogg"
+
+$random baron/sight {
+  painlord/sight1
+  painlord/sight2
+  painlord/sight3
+  painlord/sight4
+  painlord/sight5
+}
+$volume baron/sight 0.6
+
+painlord/pain1 "Sounds/PainLord/Pain1.ogg"
+painlord/pain2 "Sounds/PainLord/Pain2.ogg"
+painlord/pain3 "Sounds/PainLord/Pain3.ogg"
+painlord/pain4 "Sounds/PainLord/Pain4.ogg"
+painlord/pain5 "Sounds/PainLord/Pain5.ogg"
+painlord/pain6 "Sounds/PainLord/Pain6.ogg"
+painlord/pain7 "Sounds/PainLord/Pain7.ogg"
+painlord/pain8 "Sounds/PainLord/Pain8.ogg"
+painlord/pain9 "Sounds/PainLord/Pain9.ogg"
+painlord/pain10 "Sounds/PainLord/Pain10.ogg"
+painlord/pain11 "Sounds/PainLord/Pain11.ogg"
+painlord/pain12 "Sounds/PainLord/Pain12.ogg"
+painlord/pain13 "Sounds/PainLord/Pain13.ogg"
+painlord/pain14 "Sounds/PainLord/Pain14.ogg"
+
+$random baron/pain {
+  painlord/pain1
+  painlord/pain2
+  painlord/pain3
+  painlord/pain4
+  painlord/pain5
+  painlord/pain6
+  painlord/pain7
+  painlord/pain8
+  painlord/pain9
+  painlord/pain10
+  painlord/pain11
+  painlord/pain12
+  painlord/pain13
+  painlord/pain14
+}
+$volume baron/pain 0.6
+
+painlord/death1 "Sounds/PainLord/Death1.ogg"
+painlord/death2 "Sounds/PainLord/Death2.ogg"
+painlord/death3 "Sounds/PainLord/Death3.ogg"
+painlord/death4 "Sounds/PainLord/Death4.ogg"
+painlord/death5 "Sounds/PainLord/Death5.ogg"
+painlord/death6 "Sounds/PainLord/Death6.ogg"
+painlord/death7 "Sounds/PainLord/Death7.ogg"
+painlord/death8 "Sounds/PainLord/Death8.ogg"
+painlord/death9 "Sounds/PainLord/Death9.ogg"
+painlord/death10 "Sounds/PainLord/Death10.ogg"
+painlord/death11 "Sounds/PainLord/Death11.ogg"
+painlord/death12 "Sounds/PainLord/Death12.ogg"
+
+$random baron/death {
+  painlord/death1
+  painlord/death2
+  painlord/death3
+  painlord/death4
+  painlord/death5
+  painlord/death6
+  painlord/death7
+  painlord/death8
+  painlord/death9
+  painlord/death10
+  painlord/death11
+  painlord/death12
+}
+$volume baron/death 0.6
+
+$alias baron/melee imp/melee
+
+painlord/step1 "Sounds/PainLord/Step1.ogg" $attenuation painlord/step1 1.0
+painlord/step2 "Sounds/PainLord/Step2.ogg" $attenuation painlord/step2 1.0
+painlord/step3 "Sounds/PainLord/Step3.ogg" $attenuation painlord/step3 1.0
+painlord/step4 "Sounds/PainLord/Step4.ogg" $attenuation painlord/step4 1.0
+painlord/step5 "Sounds/PainLord/Step5.ogg" $attenuation painlord/step5 1.0
+painlord/step6 "Sounds/PainLord/Step6.ogg" $attenuation painlord/step6 1.0
+
+$random baron/step
+{
+  painlord/step1
+  painlord/step2
+  painlord/step3
+  painlord/step4
+  painlord/step5
+  painlord/step6
+}
+$volume baron/step 0.1

@@ -1,0 +1,131 @@
+matribite/active1 "Sounds/Matribite/Active1.ogg"
+matribite/active2 "Sounds/Matribite/Active2.ogg"
+matribite/active3 "Sounds/Matribite/Active3.ogg"
+matribite/active4 "Sounds/Matribite/Active4.ogg"
+matribite/active5 "Sounds/Matribite/Active5.ogg"
+matribite/active6 "Sounds/Matribite/Active6.ogg"
+matribite/active7 "Sounds/Matribite/Active7.ogg"
+matribite/active8 "Sounds/Matribite/Active8.ogg"
+matribite/active9 "Sounds/Matribite/Active9.ogg"
+matribite/active10 "Sounds/Matribite/Active10.ogg"
+matribite/active11 "Sounds/Matribite/Active11.ogg"
+matribite/active12 "Sounds/Matribite/Active12.ogg"
+matribite/active13 "Sounds/Matribite/Active13.ogg"
+matribite/active14 "Sounds/Matribite/Active14.ogg"
+matribite/active15 "Sounds/Matribite/Active15.ogg"
+matribite/active16 "Sounds/Matribite/Active16.ogg"
+matribite/active17 "Sounds/Matribite/Active17.ogg"
+matribite/active18 "Sounds/Matribite/Active18.ogg"
+matribite/active19 "Sounds/Matribite/Active19.ogg"
+matribite/active20 "Sounds/Matribite/Active20.ogg"
+
+$random pain/active {
+  matribite/active1
+  matribite/active2
+  matribite/active3
+  matribite/active4
+  matribite/active5
+  matribite/active6
+  matribite/active7
+  matribite/active8
+  matribite/active9
+  matribite/active10
+  matribite/active11
+  matribite/active12
+  matribite/active13
+  matribite/active14
+  matribite/active15
+  matribite/active16
+  matribite/active17
+  matribite/active18
+  matribite/active19
+  matribite/active20
+}
+$volume pain/active 0.6
+
+matribite/sight1 "Sounds/Matribite/Sight1.ogg"
+matribite/sight2 "Sounds/Matribite/Sight2.ogg"
+matribite/sight3 "Sounds/Matribite/Sight3.ogg"
+matribite/sight4 "Sounds/Matribite/Sight4.ogg"
+matribite/sight5 "Sounds/Matribite/Sight5.ogg"
+matribite/sight6 "Sounds/Matribite/Sight6.ogg"
+matribite/sight7 "Sounds/Matribite/Sight7.ogg"
+
+$random pain/sight {
+  matribite/sight1
+  matribite/sight2
+  matribite/sight3
+  matribite/sight4
+  matribite/sight5
+  matribite/sight6
+  matribite/sight7
+}
+$volume pain/sight 0.6
+
+matribite/pain1 "Sounds/Matribite/Pain1.ogg"
+matribite/pain2 "Sounds/Matribite/Pain2.ogg"
+matribite/pain3 "Sounds/Matribite/Pain3.ogg"
+matribite/pain4 "Sounds/Matribite/Pain4.ogg"
+matribite/pain5 "Sounds/Matribite/Pain5.ogg"
+matribite/pain6 "Sounds/Matribite/Pain6.ogg"
+matribite/pain7 "Sounds/Matribite/Pain7.ogg"
+matribite/pain8 "Sounds/Matribite/Pain8.ogg"
+matribite/pain9 "Sounds/Matribite/Pain9.ogg"
+matribite/pain10 "Sounds/Matribite/Pain10.ogg"
+matribite/pain11 "Sounds/Matribite/Pain11.ogg"
+matribite/pain12 "Sounds/Matribite/Pain12.ogg"
+matribite/pain13 "Sounds/Matribite/Pain13.ogg"
+matribite/pain14 "Sounds/Matribite/Pain14.ogg"
+matribite/pain15 "Sounds/Matribite/Pain15.ogg"
+matribite/pain16 "Sounds/Matribite/Pain16.ogg"
+
+$random pain/pain {
+  matribite/pain1
+  matribite/pain2
+  matribite/pain3
+  matribite/pain4
+  matribite/pain5
+  matribite/pain6
+  matribite/pain7
+  matribite/pain8
+  matribite/pain9
+  matribite/pain10
+  matribite/pain11
+  matribite/pain12
+  matribite/pain13
+  matribite/pain14
+  matribite/pain15
+  matribite/pain16
+}
+$volume pain/pain 0.6
+
+matribite/death1 "Sounds/Matribite/Death1.ogg"
+matribite/death2 "Sounds/Matribite/Death2.ogg"
+matribite/death3 "Sounds/Matribite/Death3.ogg"
+matribite/death4 "Sounds/Matribite/Death4.ogg"
+matribite/death5 "Sounds/Matribite/Death5.ogg"
+matribite/death6 "Sounds/Matribite/Death6.ogg"
+matribite/death7 "Sounds/Matribite/Death7.ogg"
+matribite/death8 "Sounds/Matribite/Death8.ogg"
+matribite/death9 "Sounds/Matribite/Death9.ogg"
+matribite/death10 "Sounds/Matribite/Death10.ogg"
+matribite/death11 "Sounds/Matribite/Death11.ogg"
+matribite/death12 "Sounds/Matribite/Death12.ogg"
+matribite/death13 "Sounds/Matribite/Death13.ogg"
+
+$random pain/death {
+  matribite/death1
+  matribite/death2
+  matribite/death3
+  matribite/death4
+  matribite/death5
+  matribite/death6
+  matribite/death7
+  matribite/death8
+  matribite/death9
+  matribite/death10
+  matribite/death11
+  matribite/death12
+  matribite/death13
+}
+$volume pain/death 0.6

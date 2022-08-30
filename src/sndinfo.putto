@@ -1,0 +1,49 @@
+putto/active1 "Sounds/Putto/Active1.ogg"
+putto/active2 "Sounds/Putto/Active2.ogg"
+putto/active3 "Sounds/Putto/Active3.ogg"
+
+$random putto/active {
+  putto/active1
+  putto/active2
+  putto/active3
+}
+$volume putto/active 0.6
+
+putto/sight1 "Sounds/Putto/Sight1.ogg"
+putto/sight2 "Sounds/Putto/Sight2.ogg"
+
+$random putto/sight {
+  putto/sight1
+  putto/sight2
+}
+$volume putto/sight 0.6
+
+putto/pain1 "Sounds/Putto/Pain1.ogg"
+putto/pain2 "Sounds/Putto/Pain2.ogg"
+
+$random putto/pain {
+  putto/pain1
+  putto/pain2
+}
+$volume putto/pain 0.6
+
+putto/death1 "Sounds/Putto/Death1.ogg"
+putto/death2 "Sounds/Putto/Death2.ogg"
+putto/death3 "Sounds/Putto/Death3.ogg"
+putto/death4 "Sounds/Putto/Death4.ogg"
+
+$random putto/death {
+  putto/death1
+  putto/death2
+  putto/death3
+  putto/death4
+}
+$volume putto/death 0.6
+
+/* There’s also `putto/spit` for when Putto shoots, but I don’t see a reason to
+use it as of now. */
+
+// $random putto/spit {
+//   putto/spit1
+// }
+// putto/spit1 "Sounds/Putto/Spit1.ogg"

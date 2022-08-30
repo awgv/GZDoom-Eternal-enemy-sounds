@@ -1,0 +1,223 @@
+serpentipede/active1 "Sounds/Serpentipede/Active1.ogg"
+serpentipede/active2 "Sounds/Serpentipede/Active2.ogg"
+serpentipede/active3 "Sounds/Serpentipede/Active3.ogg"
+serpentipede/active4 "Sounds/Serpentipede/Active4.ogg"
+serpentipede/active5 "Sounds/Serpentipede/Active5.ogg"
+serpentipede/active6 "Sounds/Serpentipede/Active6.ogg"
+serpentipede/active7 "Sounds/Serpentipede/Active7.ogg"
+serpentipede/active8 "Sounds/Serpentipede/Active8.ogg"
+
+$random imp/active {
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  serpentipede/active1
+  serpentipede/active2
+  serpentipede/active3
+  serpentipede/active4
+  serpentipede/active5
+  serpentipede/active6
+  serpentipede/active7
+  serpentipede/active8
+}
+$volume imp/active 0.6
+
+serpentipede/sight1 "Sounds/Serpentipede/Sight1.ogg"
+serpentipede/sight2 "Sounds/Serpentipede/Sight2.ogg"
+serpentipede/sight3 "Sounds/Serpentipede/Sight3.ogg"
+serpentipede/sight4 "Sounds/Serpentipede/Sight4.ogg"
+
+$random imp/sight {
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  serpentipede/sight1
+  serpentipede/sight2
+  serpentipede/sight3
+  serpentipede/sight4
+}
+$volume imp/sight 0.6
+
+serpentipede/pain1 "Sounds/Serpentipede/Pain1.ogg"
+serpentipede/pain2 "Sounds/Serpentipede/Pain2.ogg"
+serpentipede/pain3 "Sounds/Serpentipede/Pain3.ogg"
+serpentipede/pain4 "Sounds/Serpentipede/Pain4.ogg"
+serpentipede/pain5 "Sounds/Serpentipede/Pain5.ogg"
+serpentipede/pain6 "Sounds/Serpentipede/Pain6.ogg"
+serpentipede/pain7 "Sounds/Serpentipede/Pain7.ogg"
+serpentipede/pain8 "Sounds/Serpentipede/Pain8.ogg"
+serpentipede/pain9 "Sounds/Serpentipede/Pain9.ogg"
+serpentipede/pain10 "Sounds/Serpentipede/Pain10.ogg"
+serpentipede/pain11 "Sounds/Serpentipede/Pain11.ogg"
+serpentipede/pain12 "Sounds/Serpentipede/Pain12.ogg"
+serpentipede/pain13 "Sounds/Serpentipede/Pain13.ogg"
+serpentipede/pain14 "Sounds/Serpentipede/Pain14.ogg"
+serpentipede/pain15 "Sounds/Serpentipede/Pain15.ogg"
+serpentipede/pain16 "Sounds/Serpentipede/Pain16.ogg"
+serpentipede/pain17 "Sounds/Serpentipede/Pain17.ogg"
+serpentipede/pain18 "Sounds/Serpentipede/Pain18.ogg"
+serpentipede/pain19 "Sounds/Serpentipede/Pain19.ogg"
+
+$random imp/pain {
+  serpentipede/pain1
+  serpentipede/pain2
+  serpentipede/pain3
+  serpentipede/pain4
+  serpentipede/pain5
+  serpentipede/pain6
+  serpentipede/pain7
+  serpentipede/pain8
+  serpentipede/pain9
+  serpentipede/pain10
+  serpentipede/pain11
+  serpentipede/pain12
+  serpentipede/pain13
+  serpentipede/pain14
+  serpentipede/pain15
+  serpentipede/pain16
+  serpentipede/pain17
+  serpentipede/pain18
+  serpentipede/pain19
+}
+$volume imp/pain 0.6
+
+serpentipede/death1 "Sounds/Serpentipede/Death1.ogg"
+serpentipede/death2 "Sounds/Serpentipede/Death2.ogg"
+serpentipede/death3 "Sounds/Serpentipede/Death3.ogg"
+serpentipede/death4 "Sounds/Serpentipede/Death4.ogg"
+serpentipede/death5 "Sounds/Serpentipede/Death5.ogg"
+serpentipede/death6 "Sounds/Serpentipede/Death6.ogg"
+serpentipede/death7 "Sounds/Serpentipede/Death7.ogg"
+serpentipede/death8 "Sounds/Serpentipede/Death8.ogg"
+serpentipede/death9 "Sounds/Serpentipede/Death9.ogg"
+serpentipede/death10 "Sounds/Serpentipede/Death10.ogg"
+serpentipede/death11 "Sounds/Serpentipede/Death11.ogg"
+serpentipede/death12 "Sounds/Serpentipede/Death12.ogg"
+serpentipede/death13 "Sounds/Serpentipede/Death13.ogg"
+serpentipede/death14 "Sounds/Serpentipede/Death14.ogg"
+serpentipede/death15 "Sounds/Serpentipede/Death15.ogg"
+serpentipede/death16 "Sounds/Serpentipede/Death16.ogg"
+serpentipede/death17 "Sounds/Serpentipede/Death17.ogg"
+serpentipede/death18 "Sounds/Serpentipede/Death18.ogg"
+serpentipede/death19 "Sounds/Serpentipede/Death19.ogg"
+serpentipede/death20 "Sounds/Serpentipede/Death20.ogg"
+serpentipede/death21 "Sounds/Serpentipede/Death21.ogg"
+serpentipede/death22 "Sounds/Serpentipede/Death22.ogg"
+
+$random imp/death {
+  serpentipede/death1
+  serpentipede/death2
+  serpentipede/death3
+  serpentipede/death4
+  serpentipede/death5
+  serpentipede/death6
+  serpentipede/death7
+  serpentipede/death8
+  serpentipede/death9
+  serpentipede/death10
+  serpentipede/death11
+  serpentipede/death12
+  serpentipede/death13
+  serpentipede/death14
+  serpentipede/death15
+  serpentipede/death16
+  serpentipede/death17
+  serpentipede/death18
+  serpentipede/death19
+  serpentipede/death20
+  serpentipede/death21
+  serpentipede/death22
+}
+$volume imp/death 0.6
+
+serpentipede/melee1 "Sounds/Serpentipede/Melee1.ogg"
+serpentipede/melee2 "Sounds/Serpentipede/Melee2.ogg"
+
+$random imp/melee {
+  serpentipede/melee1
+  serpentipede/melee2
+}
+
+serpentipede/attack1 "Sounds/Serpentipede/Attack1.ogg"
+serpentipede/attack2 "Sounds/Serpentipede/Attack2.ogg"
+serpentipede/attack3 "Sounds/Serpentipede/Attack3.ogg"
+serpentipede/attack4 "Sounds/Serpentipede/Attack4.ogg"
+serpentipede/attack5 "Sounds/Serpentipede/Attack5.ogg"
+serpentipede/attack6 "Sounds/Serpentipede/Attack6.ogg"
+serpentipede/attack7 "Sounds/Serpentipede/Attack7.ogg"
+
+$random imp/attack {
+  serpentipede/attack1
+  serpentipede/attack2
+  serpentipede/attack3
+  serpentipede/attack4
+  serpentipede/attack5
+  serpentipede/attack6
+  serpentipede/attack7
+}
+
+serpentipede/shotx1 "Sounds/Serpentipede/Shotx1.ogg"
+serpentipede/shotx2 "Sounds/Serpentipede/Shotx2.ogg"
+serpentipede/shotx3 "Sounds/Serpentipede/Shotx3.ogg"
+serpentipede/shotx4 "Sounds/Serpentipede/Shotx4.ogg"
+serpentipede/shotx5 "Sounds/Serpentipede/Shotx5.ogg"
+serpentipede/shotx6 "Sounds/Serpentipede/Shotx6.ogg"
+serpentipede/shotx7 "Sounds/Serpentipede/Shotx7.ogg"
+
+$random imp/shotx {
+  serpentipede/shotx1
+  serpentipede/shotx2
+  serpentipede/shotx3
+  serpentipede/shotx4
+  serpentipede/shotx5
+  serpentipede/shotx6
+  serpentipede/shotx7
+}
+
+serpentipede/step1 "Sounds/Serpentipede/Step1.ogg" $attenuation serpentipede/step1 1.4
+serpentipede/step2 "Sounds/Serpentipede/Step2.ogg" $attenuation serpentipede/step2 1.4
+serpentipede/step3 "Sounds/Serpentipede/Step3.ogg" $attenuation serpentipede/step3 1.4
+serpentipede/step4 "Sounds/Serpentipede/Step4.ogg" $attenuation serpentipede/step4 1.4
+serpentipede/step5 "Sounds/Serpentipede/Step5.ogg" $attenuation serpentipede/step5 1.4
+serpentipede/step6 "Sounds/Serpentipede/Step6.ogg" $attenuation serpentipede/step6 1.4
+serpentipede/step7 "Sounds/Serpentipede/Step7.ogg" $attenuation serpentipede/step7 1.4
+serpentipede/step8 "Sounds/Serpentipede/Step8.ogg" $attenuation serpentipede/step8 1.4
+
+$random imp/step
+{
+  serpentipede/step1
+  serpentipede/step2
+  serpentipede/step3
+  serpentipede/step4
+  serpentipede/step5
+  serpentipede/step6
+  serpentipede/step7
+  serpentipede/step8
+}
+$volume imp/step 0.16

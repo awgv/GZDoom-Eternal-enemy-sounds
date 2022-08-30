@@ -1,0 +1,44 @@
+zombieman/step1 "Sounds/Zombiemen/Step1.ogg" $attenuation zombieman/step1 1.2 $pitchset zombieman/step1 0.8
+zombieman/step2 "Sounds/Zombiemen/Step2.ogg" $attenuation zombieman/step2 1.2 $pitchset zombieman/step2 0.8
+zombieman/step3 "Sounds/Zombiemen/Step3.ogg" $attenuation zombieman/step3 1.2 $pitchset zombieman/step3 0.8
+zombieman/step4 "Sounds/Zombiemen/Step4.ogg" $attenuation zombieman/step4 1.2 $pitchset zombieman/step4 0.8
+zombieman/step5 "Sounds/Zombiemen/Step5.ogg" $attenuation zombieman/step5 1.2 $pitchset zombieman/step5 0.8
+zombieman/step6 "Sounds/Zombiemen/Step6.ogg" $attenuation zombieman/step6 1.2 $pitchset zombieman/step6 0.8
+zombieman/step7 "Sounds/Zombiemen/Step7.ogg" $attenuation zombieman/step7 1.2 $pitchset zombieman/step7 0.8
+zombieman/step8 "Sounds/Zombiemen/Step8.ogg" $attenuation zombieman/step8 1.2 $pitchset zombieman/step8 0.8
+
+$random humanoid/step
+{
+  zombieman/step1
+  zombieman/step2
+  zombieman/step3
+  zombieman/step4
+  zombieman/step5
+  zombieman/step6
+  zombieman/step7
+  zombieman/step8
+}
+$volume humanoid/step 0.04
+
+// Unused zombiemen’s footsteps:
+zombieman/land1 "Sounds/Zombiemen/Land1.ogg"
+zombieman/land2 "Sounds/Zombiemen/Land2.ogg"
+zombieman/land3 "Sounds/Zombiemen/Land3.ogg"
+zombieman/land4 "Sounds/Zombiemen/Land4.ogg"
+zombieman/land5 "Sounds/Zombiemen/Land5.ogg"
+zombieman/land6 "Sounds/Zombiemen/Land6.ogg"
+zombieman/land7 "Sounds/Zombiemen/Land7.ogg"
+zombieman/land8 "Sounds/Zombiemen/Land8.ogg"
+
+$random misc/mobland
+{
+  zombieman/land1
+  zombieman/land2
+  zombieman/land3
+  zombieman/land4
+  zombieman/land5
+  zombieman/land6
+  zombieman/land7
+  zombieman/land8
+}
+$volume misc/mobland 0.14

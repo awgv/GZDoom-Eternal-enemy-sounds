@@ -1,0 +1,212 @@
+zombieman/active1 "Sounds/Zombiemen/Active1.ogg"
+zombieman/active2 "Sounds/Zombiemen/Active2.ogg"
+zombieman/active3 "Sounds/Zombiemen/Active3.ogg"
+zombieman/active4 "Sounds/Zombiemen/Active4.ogg"
+zombieman/active5 "Sounds/Zombiemen/Active5.ogg"
+zombieman/active6 "Sounds/Zombiemen/Active6.ogg"
+zombieman/active7 "Sounds/Zombiemen/Active7.ogg"
+zombieman/active8 "Sounds/Zombiemen/Active8.ogg"
+zombieman/active9 "Sounds/Zombiemen/Active9.ogg"
+zombieman/active10 "Sounds/Zombiemen/Active10.ogg"
+zombieman/active11 "Sounds/Zombiemen/Active11.ogg"
+zombieman/active12 "Sounds/Zombiemen/Active12.ogg"
+
+$random grunt/active {
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  zombieman/active1
+  zombieman/active2
+  zombieman/active3
+  zombieman/active4
+  zombieman/active5
+  zombieman/active6
+  zombieman/active7
+  zombieman/active8
+  zombieman/active9
+  zombieman/active10
+  zombieman/active11
+  zombieman/active12
+}
+$volume grunt/active 0.6
+$alias shotguy/active grunt/active
+$alias chainguy/active grunt/active
+
+zombieman/sight1 "Sounds/Zombiemen/Sight1.ogg"
+zombieman/sight2 "Sounds/Zombiemen/Sight2.ogg"
+zombieman/sight3 "Sounds/Zombiemen/Sight3.ogg"
+zombieman/sight4 "Sounds/Zombiemen/Sight4.ogg"
+zombieman/sight5 "Sounds/Zombiemen/Sight5.ogg"
+zombieman/sight6 "Sounds/Zombiemen/Sight6.ogg"
+zombieman/sight7 "Sounds/Zombiemen/Sight7.ogg"
+zombieman/sight8 "Sounds/Zombiemen/Sight8.ogg"
+zombieman/sight9 "Sounds/Zombiemen/Sight9.ogg"
+zombieman/sight10 "Sounds/Zombiemen/Sight10.ogg"
+zombieman/sight11 "Sounds/Zombiemen/Sight11.ogg"
+zombieman/sight12 "Sounds/Zombiemen/Sight12.ogg"
+zombieman/sight13 "Sounds/Zombiemen/Sight13.ogg"
+zombieman/sight14 "Sounds/Zombiemen/Sight14.ogg"
+zombieman/sight15 "Sounds/Zombiemen/Sight15.ogg"
+zombieman/sight16 "Sounds/Zombiemen/Sight16.ogg"
+
+$random grunt/sight {
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  zombieman/sight1
+  zombieman/sight2
+  zombieman/sight3
+  zombieman/sight4
+  zombieman/sight5
+  zombieman/sight6
+  zombieman/sight7
+  zombieman/sight8
+  zombieman/sight9
+  zombieman/sight10
+  zombieman/sight11
+  zombieman/sight12
+  zombieman/sight13
+  zombieman/sight14
+  zombieman/sight15
+  zombieman/sight16
+}
+$volume grunt/sight 0.6
+$alias shotguy/sight grunt/sight
+$alias chainguy/sight grunt/sight
+$alias freshgrunt/sight grunt/sight
+
+zombieman/pain1 "Sounds/Zombiemen/Pain1.ogg"
+zombieman/pain2 "Sounds/Zombiemen/Pain2.ogg"
+zombieman/pain3 "Sounds/Zombiemen/Pain3.ogg"
+zombieman/pain4 "Sounds/Zombiemen/Pain4.ogg"
+zombieman/pain5 "Sounds/Zombiemen/Pain5.ogg"
+zombieman/pain6 "Sounds/Zombiemen/Pain6.ogg"
+zombieman/pain7 "Sounds/Zombiemen/Pain7.ogg"
+zombieman/pain8 "Sounds/Zombiemen/Pain8.ogg"
+zombieman/pain9 "Sounds/Zombiemen/Pain9.ogg"
+zombieman/pain10 "Sounds/Zombiemen/Pain10.ogg"
+zombieman/pain11 "Sounds/Zombiemen/Pain11.ogg"
+zombieman/pain12 "Sounds/Zombiemen/Pain12.ogg"
+zombieman/pain13 "Sounds/Zombiemen/Pain13.ogg"
+zombieman/pain14 "Sounds/Zombiemen/Pain14.ogg"
+zombieman/pain15 "Sounds/Zombiemen/Pain15.ogg"
+zombieman/pain16 "Sounds/Zombiemen/Pain16.ogg"
+zombieman/pain17 "Sounds/Zombiemen/Pain17.ogg"
+zombieman/pain18 "Sounds/Zombiemen/Pain18.ogg"
+
+$random grunt/pain {
+  zombieman/pain1
+  zombieman/pain2
+  zombieman/pain3
+  zombieman/pain4
+  zombieman/pain5
+  zombieman/pain6
+  zombieman/pain7
+  zombieman/pain8
+  zombieman/pain9
+  zombieman/pain10
+  zombieman/pain11
+  zombieman/pain12
+  zombieman/pain13
+  zombieman/pain14
+  zombieman/pain15
+  zombieman/pain16
+  zombieman/pain17
+  zombieman/pain18
+}
+$volume grunt/pain 0.6
+$alias shotguy/pain grunt/pain
+$alias chainguy/pain grunt/pain
+$alias freshgrunt/pain grunt/sight
+
+zombieman/death1 "Sounds/Zombiemen/Death1.ogg"
+zombieman/death2 "Sounds/Zombiemen/Death2.ogg"
+zombieman/death3 "Sounds/Zombiemen/Death3.ogg"
+zombieman/death4 "Sounds/Zombiemen/Death4.ogg"
+zombieman/death5 "Sounds/Zombiemen/Death5.ogg"
+zombieman/death6 "Sounds/Zombiemen/Death6.ogg"
+zombieman/death7 "Sounds/Zombiemen/Death7.ogg"
+zombieman/death8 "Sounds/Zombiemen/Death8.ogg"
+zombieman/death9 "Sounds/Zombiemen/Death9.ogg"
+zombieman/death10 "Sounds/Zombiemen/Death10.ogg"
+zombieman/death11 "Sounds/Zombiemen/Death11.ogg"
+zombieman/death12 "Sounds/Zombiemen/Death12.ogg"
+zombieman/death13 "Sounds/Zombiemen/Death13.ogg"
+zombieman/death14 "Sounds/Zombiemen/Death14.ogg"
+zombieman/death15 "Sounds/Zombiemen/Death15.ogg"
+zombieman/death16 "Sounds/Zombiemen/Death16.ogg"
+zombieman/death17 "Sounds/Zombiemen/Death17.ogg"
+zombieman/death18 "Sounds/Zombiemen/Death18.ogg"
+zombieman/death19 "Sounds/Zombiemen/Death19.ogg"
+zombieman/death20 "Sounds/Zombiemen/Death20.ogg"
+zombieman/death21 "Sounds/Zombiemen/Death21.ogg"
+
+$random grunt/death {
+  zombieman/death1
+  zombieman/death2
+  zombieman/death3
+  zombieman/death4
+  zombieman/death5
+  zombieman/death6
+  zombieman/death7
+  zombieman/death8
+  zombieman/death9
+  zombieman/death10
+  zombieman/death11
+  zombieman/death12
+  zombieman/death13
+  zombieman/death14
+  zombieman/death15
+  zombieman/death16
+  zombieman/death17
+  zombieman/death18
+  zombieman/death19
+  zombieman/death20
+  zombieman/death21
+}
+$volume grunt/death 0.6
+$alias shotguy/death grunt/death
+$alias chainguy/death grunt/death
+$alias freshgrunt/death grunt/sight

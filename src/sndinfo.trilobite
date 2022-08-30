@@ -1,0 +1,126 @@
+trilobite/active1 "Sounds/Trilobite/Active1.ogg"
+trilobite/active2 "Sounds/Trilobite/Active2.ogg"
+trilobite/active3 "Sounds/Trilobite/Active3.ogg"
+trilobite/active4 "Sounds/Trilobite/Active4.ogg"
+trilobite/active5 "Sounds/Trilobite/Active5.ogg"
+trilobite/active6 "Sounds/Trilobite/Active6.ogg"
+trilobite/active7 "Sounds/Trilobite/Active7.ogg"
+trilobite/active8 "Sounds/Trilobite/Active8.ogg"
+trilobite/active9 "Sounds/Trilobite/Active9.ogg"
+trilobite/active10 "Sounds/Trilobite/Active10.ogg"
+
+$random caco/active {
+  trilobite/active1
+  trilobite/active2
+  trilobite/active3
+  trilobite/active4
+  trilobite/active5
+  trilobite/active6
+  trilobite/active7
+  trilobite/active8
+  trilobite/active9
+  trilobite/active10
+}
+$volume caco/active 0.6
+
+trilobite/sight1 "Sounds/Trilobite/Sight1.ogg"
+trilobite/sight2 "Sounds/Trilobite/Sight2.ogg"
+trilobite/sight3 "Sounds/Trilobite/Sight3.ogg"
+trilobite/sight4 "Sounds/Trilobite/Sight4.ogg"
+trilobite/sight5 "Sounds/Trilobite/Sight5.ogg"
+trilobite/sight6 "Sounds/Trilobite/Sight6.ogg"
+
+$random caco/sight {
+  trilobite/sight1
+  trilobite/sight2
+  trilobite/sight3
+  trilobite/sight4
+  trilobite/sight5
+  trilobite/sight6
+}
+$volume caco/sight 0.6
+
+trilobite/pain1 "Sounds/Trilobite/Pain1.ogg"
+trilobite/pain2 "Sounds/Trilobite/Pain2.ogg"
+trilobite/pain3 "Sounds/Trilobite/Pain3.ogg"
+trilobite/pain4 "Sounds/Trilobite/Pain4.ogg"
+trilobite/pain5 "Sounds/Trilobite/Pain5.ogg"
+trilobite/pain6 "Sounds/Trilobite/Pain6.ogg"
+trilobite/pain7 "Sounds/Trilobite/Pain7.ogg"
+trilobite/pain8 "Sounds/Trilobite/Pain8.ogg"
+trilobite/pain9 "Sounds/Trilobite/Pain9.ogg"
+trilobite/pain10 "Sounds/Trilobite/Pain10.ogg"
+trilobite/pain11 "Sounds/Trilobite/Pain11.ogg"
+trilobite/pain12 "Sounds/Trilobite/Pain12.ogg"
+
+$random caco/pain {
+  trilobite/pain1
+  trilobite/pain2
+  trilobite/pain3
+  trilobite/pain4
+  trilobite/pain5
+  trilobite/pain6
+  trilobite/pain7
+  trilobite/pain8
+  trilobite/pain9
+  trilobite/pain10
+  trilobite/pain11
+  trilobite/pain12
+}
+$volume caco/pain 0.6
+
+trilobite/death1 "Sounds/Trilobite/Death1.ogg"
+trilobite/death2 "Sounds/Trilobite/Death2.ogg"
+trilobite/death3 "Sounds/Trilobite/Death3.ogg"
+trilobite/death4 "Sounds/Trilobite/Death4.ogg"
+trilobite/death5 "Sounds/Trilobite/Death5.ogg"
+trilobite/death6 "Sounds/Trilobite/Death6.ogg"
+
+$random caco/death {
+  trilobite/death1
+  trilobite/death2
+  trilobite/death3
+  trilobite/death4
+  trilobite/death5
+  trilobite/death6
+}
+$volume caco/death 0.6
+
+/* Unused: */
+
+// $random caco/ballhum {
+
+// }
+
+// $random caco/ballcrack {
+
+// }
+
+// $random caco/bigexplode {
+
+// }
+
+// $random caco/ballecho {
+
+// }
+
+// $random caco/bigcrack {
+
+// }
+
+// $random caco/charge {
+
+// }
+
+// $random caco/bigshot {
+
+// }
+
+misc/arczap "Sounds/TechnoSpider/PLASIDLE.ogg" $pitchset misc/arczap 1
+
+$random misc/zap3 {
+  technospider/plascrack1
+  technospider/plascrack2
+}
+$volume misc/zap3 0.2
+$pitchset misc/zap3 1

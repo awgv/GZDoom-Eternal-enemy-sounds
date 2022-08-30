@@ -1,0 +1,134 @@
+technorantula/active1 "Sounds/Technorantula/Active1.ogg"
+technorantula/active2 "Sounds/Technorantula/Active2.ogg"
+technorantula/active3 "Sounds/Technorantula/Active3.ogg"
+technorantula/active4 "Sounds/Technorantula/Active4.ogg"
+technorantula/active5 "Sounds/Technorantula/Active5.ogg"
+technorantula/active6 "Sounds/Technorantula/Active6.ogg"
+
+$random spider/active {
+  technorantula/active1
+  technorantula/active2
+  technorantula/active3
+  technorantula/active4
+  technorantula/active5
+  technorantula/active6
+}
+$volume spider/active 0.8
+
+technorantula/sight1 "Sounds/Technorantula/Sight1.ogg"
+technorantula/sight2 "Sounds/Technorantula/Sight2.ogg"
+technorantula/sight3 "Sounds/Technorantula/Sight3.ogg"
+technorantula/sight4 "Sounds/Technorantula/Sight4.ogg"
+
+$random spider/sight {
+  technorantula/sight1
+  technorantula/sight2
+  technorantula/sight3
+  technorantula/sight4
+}
+
+technorantula/pain1 "Sounds/Technorantula/Pain1.ogg"
+technorantula/pain2 "Sounds/Technorantula/Pain2.ogg"
+technorantula/pain3 "Sounds/Technorantula/Pain3.ogg"
+technorantula/pain4 "Sounds/Technorantula/Pain4.ogg"
+technorantula/pain5 "Sounds/Technorantula/Pain5.ogg"
+technorantula/pain6 "Sounds/Technorantula/Pain6.ogg"
+technorantula/pain7 "Sounds/Technorantula/Pain7.ogg"
+technorantula/pain8 "Sounds/Technorantula/Pain8.ogg"
+technorantula/pain9 "Sounds/Technorantula/Pain9.ogg"
+technorantula/pain10 "Sounds/Technorantula/Pain10.ogg"
+technorantula/pain11 "Sounds/Technorantula/Pain11.ogg"
+technorantula/pain12 "Sounds/Technorantula/Pain12.ogg"
+technorantula/pain13 "Sounds/Technorantula/Pain13.ogg"
+technorantula/pain14 "Sounds/Technorantula/Pain14.ogg"
+technorantula/pain15 "Sounds/Technorantula/Pain15.ogg"
+technorantula/pain16 "Sounds/Technorantula/Pain16.ogg"
+technorantula/pain17 "Sounds/Technorantula/Pain17.ogg"
+technorantula/pain18 "Sounds/Technorantula/Pain18.ogg"
+technorantula/pain19 "Sounds/Technorantula/Pain19.ogg"
+technorantula/pain20 "Sounds/Technorantula/Pain20.ogg"
+technorantula/pain21 "Sounds/Technorantula/Pain21.ogg"
+technorantula/pain22 "Sounds/Technorantula/Pain22.ogg"
+
+$random spider/pain {
+  technorantula/pain1
+  technorantula/pain2
+  technorantula/pain3
+  technorantula/pain4
+  technorantula/pain5
+  technorantula/pain6
+  technorantula/pain7
+  technorantula/pain8
+  technorantula/pain9
+  technorantula/pain10
+  technorantula/pain11
+  technorantula/pain12
+  technorantula/pain13
+  technorantula/pain14
+  technorantula/pain15
+  technorantula/pain16
+  technorantula/pain17
+  technorantula/pain18
+  technorantula/pain19
+  technorantula/pain20
+  technorantula/pain21
+  technorantula/pain22
+}
+
+technorantula/death1 "Sounds/Technorantula/Death1.ogg"
+technorantula/death2 "Sounds/Technorantula/Death2.ogg"
+technorantula/death3 "Sounds/Technorantula/Death3.ogg"
+technorantula/death4 "Sounds/Technorantula/Death4.ogg"
+technorantula/death5 "Sounds/Technorantula/Death5.ogg"
+technorantula/death6 "Sounds/Technorantula/Death6.ogg"
+technorantula/death7 "Sounds/Technorantula/Death7.ogg"
+technorantula/death8 "Sounds/Technorantula/Death8.ogg"
+technorantula/death9 "Sounds/Technorantula/Death9.ogg"
+technorantula/death10 "Sounds/Technorantula/Death10.ogg"
+technorantula/death11 "Sounds/Technorantula/Death11.ogg"
+technorantula/death12 "Sounds/Technorantula/Death12.ogg"
+technorantula/death13 "Sounds/Technorantula/Death13.ogg"
+technorantula/death14 "Sounds/Technorantula/Death14.ogg"
+technorantula/death15 "Sounds/Technorantula/Death15.ogg"
+technorantula/death16 "Sounds/Technorantula/Death16.ogg"
+technorantula/death17 "Sounds/Technorantula/Death17.ogg"
+
+$random spider/death {
+  technorantula/death1
+  technorantula/death2
+  technorantula/death3
+  technorantula/death4
+  technorantula/death5
+  technorantula/death6
+  technorantula/death7
+  technorantula/death8
+  technorantula/death9
+  technorantula/death10
+  technorantula/death11
+  technorantula/death12
+  technorantula/death13
+  technorantula/death14
+  technorantula/death15
+  technorantula/death16
+  technorantula/death17
+}
+
+technorantula/walk1 "Sounds/Technorantula/Walk1.ogg"
+technorantula/walk2 "Sounds/Technorantula/Walk2.ogg"
+technorantula/walk3 "Sounds/Technorantula/Walk3.ogg"
+technorantula/walk4 "Sounds/Technorantula/Walk4.ogg"
+technorantula/walk5 "Sounds/Technorantula/Walk5.ogg"
+technorantula/walk6 "Sounds/Technorantula/Walk6.ogg"
+technorantula/walk7 "Sounds/Technorantula/Walk7.ogg"
+
+$random spider/walk {
+  technorantula/walk1
+  technorantula/walk2
+  technorantula/walk3
+  technorantula/walk4
+  technorantula/walk5
+  technorantula/walk6
+  technorantula/walk7
+  cyber/walk1
+}
+$volume spider/walk 0.16

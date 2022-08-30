@@ -1,0 +1,37 @@
+hatchling/melee1 "Sounds/Hatchling/Melee1.ogg"
+hatchling/melee2 "Sounds/Hatchling/Melee2.ogg"
+hatchling/melee3 "Sounds/Hatchling/Melee3.ogg"
+hatchling/melee4 "Sounds/Hatchling/Melee4.ogg"
+
+$random skull/melee {
+  hatchling/melee1
+  hatchling/melee2
+  hatchling/melee3
+  hatchling/melee4
+}
+$volume skull/melee 0.6
+
+// Is an active idle sound:
+$random skull/idlescream {
+  play/nothing
+  play/nothing
+  play/nothing
+  skull/melee
+}
+$volume skull/idlescream 0.6
+
+hatchling/death1 "Sounds/Hatchling/Death1.ogg"
+hatchling/death2 "Sounds/Hatchling/Death2.ogg"
+hatchling/death3 "Sounds/Hatchling/Death3.ogg"
+hatchling/death4 "Sounds/Hatchling/Death4.ogg"
+hatchling/death5 "Sounds/Hatchling/Death5.ogg"
+
+$random skull/death {
+  hatchling/death1
+  hatchling/death2
+  hatchling/death3
+  hatchling/death4
+  hatchling/death5
+}
+$volume skull/death 0.6
+$alias skull/pain skull/death

@@ -1,0 +1,210 @@
+painbringer/active1 "Sounds/PainBringer/Active1.ogg"
+painbringer/active2 "Sounds/PainBringer/Active2.ogg"
+painbringer/active3 "Sounds/PainBringer/Active3.ogg"
+painbringer/active4 "Sounds/PainBringer/Active4.ogg"
+painbringer/active5 "Sounds/PainBringer/Active5.ogg"
+painbringer/active6 "Sounds/PainBringer/Active6.ogg"
+painbringer/active7 "Sounds/PainBringer/Active7.ogg"
+painbringer/active8 "Sounds/PainBringer/Active8.ogg"
+painbringer/active9 "Sounds/PainBringer/Active9.ogg"
+painbringer/active10 "Sounds/PainBringer/Active10.ogg"
+painbringer/active11 "Sounds/PainBringer/Active11.ogg"
+painbringer/active12 "Sounds/PainBringer/Active12.ogg"
+painbringer/active13 "Sounds/PainBringer/Active13.ogg"
+painbringer/active14 "Sounds/PainBringer/Active14.ogg"
+painbringer/active15 "Sounds/PainBringer/Active15.ogg"
+painbringer/active16 "Sounds/PainBringer/Active16.ogg"
+painbringer/active17 "Sounds/PainBringer/Active17.ogg"
+painbringer/active18 "Sounds/PainBringer/Active18.ogg"
+painbringer/active19 "Sounds/PainBringer/Active19.ogg"
+painbringer/active20 "Sounds/PainBringer/Active20.ogg"
+painbringer/active21 "Sounds/PainBringer/Active21.ogg"
+painbringer/active22 "Sounds/PainBringer/Active22.ogg"
+painbringer/active23 "Sounds/PainBringer/Active23.ogg"
+painbringer/active24 "Sounds/PainBringer/Active24.ogg"
+painbringer/active25 "Sounds/PainBringer/Active25.ogg"
+painbringer/active26 "Sounds/PainBringer/Active26.ogg"
+painbringer/active27 "Sounds/PainBringer/Active27.ogg"
+painbringer/active28 "Sounds/PainBringer/Active28.ogg"
+painbringer/active29 "Sounds/PainBringer/Active29.ogg"
+painbringer/active30 "Sounds/PainBringer/Active30.ogg"
+painbringer/active31 "Sounds/PainBringer/Active31.ogg"
+
+$random knight/active {
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  painbringer/active1
+  painbringer/active2
+  painbringer/active3
+  painbringer/active4
+  painbringer/active5
+  painbringer/active6
+  painbringer/active7
+  painbringer/active8
+  painbringer/active9
+  painbringer/active10
+  painbringer/active11
+  painbringer/active12
+  painbringer/active13
+  painbringer/active14
+  painbringer/active15
+  painbringer/active16
+  painbringer/active17
+  painbringer/active18
+  painbringer/active19
+  painbringer/active20
+  painbringer/active21
+  painbringer/active22
+  painbringer/active23
+  painbringer/active24
+  painbringer/active25
+  painbringer/active26
+  painbringer/active27
+  painbringer/active28
+  painbringer/active29
+  painbringer/active30
+  painbringer/active31
+}
+$volume knight/active 0.6
+
+painbringer/sight1 "Sounds/PainBringer/Sight1.ogg"
+painbringer/sight2 "Sounds/PainBringer/Sight2.ogg"
+painbringer/sight3 "Sounds/PainBringer/Sight3.ogg"
+painbringer/sight4 "Sounds/PainBringer/Sight4.ogg"
+painbringer/sight5 "Sounds/PainBringer/Sight5.ogg"
+painbringer/sight6 "Sounds/PainBringer/Sight6.ogg"
+painbringer/sight7 "Sounds/PainBringer/Sight7.ogg"
+painbringer/sight8 "Sounds/PainBringer/Sight8.ogg"
+painbringer/sight9 "Sounds/PainBringer/Sight9.ogg"
+painbringer/sight10 "Sounds/PainBringer/Sight10.ogg"
+painbringer/sight11 "Sounds/PainBringer/Sight11.ogg"
+
+$random knight/sight {
+  painbringer/sight1
+  painbringer/sight2
+  painbringer/sight3
+  painbringer/sight4
+  painbringer/sight5
+  painbringer/sight6
+  painbringer/sight7
+  painbringer/sight8
+  painbringer/sight9
+  painbringer/sight10
+  painbringer/sight11
+}
+$volume knight/sight 0.6
+
+painbringer/pain1 "Sounds/PainBringer/Pain1.ogg"
+painbringer/pain2 "Sounds/PainBringer/Pain2.ogg"
+painbringer/pain3 "Sounds/PainBringer/Pain3.ogg"
+painbringer/pain4 "Sounds/PainBringer/Pain4.ogg"
+painbringer/pain5 "Sounds/PainBringer/Pain5.ogg"
+painbringer/pain6 "Sounds/PainBringer/Pain6.ogg"
+painbringer/pain7 "Sounds/PainBringer/Pain7.ogg"
+painbringer/pain8 "Sounds/PainBringer/Pain8.ogg"
+painbringer/pain9 "Sounds/PainBringer/Pain9.ogg"
+painbringer/pain10 "Sounds/PainBringer/Pain10.ogg"
+painbringer/pain11 "Sounds/PainBringer/Pain11.ogg"
+painbringer/pain12 "Sounds/PainBringer/Pain12.ogg"
+painbringer/pain13 "Sounds/PainBringer/Pain13.ogg"
+painbringer/pain14 "Sounds/PainBringer/Pain14.ogg"
+painbringer/pain15 "Sounds/PainBringer/Pain15.ogg"
+painbringer/pain16 "Sounds/PainBringer/Pain16.ogg"
+painbringer/pain17 "Sounds/PainBringer/Pain17.ogg"
+painbringer/pain18 "Sounds/PainBringer/Pain18.ogg"
+painbringer/pain19 "Sounds/PainBringer/Pain19.ogg"
+painbringer/pain20 "Sounds/PainBringer/Pain20.ogg"
+painbringer/pain21 "Sounds/PainBringer/Pain21.ogg"
+painbringer/pain22 "Sounds/PainBringer/Pain22.ogg"
+painbringer/pain23 "Sounds/PainBringer/Pain23.ogg"
+painbringer/pain24 "Sounds/PainBringer/Pain24.ogg"
+painbringer/pain25 "Sounds/PainBringer/Pain25.ogg"
+painbringer/pain26 "Sounds/PainBringer/Pain26.ogg"
+painbringer/pain27 "Sounds/PainBringer/Pain27.ogg"
+painbringer/pain28 "Sounds/PainBringer/Pain28.ogg"
+
+$random knight/pain {
+  painbringer/pain1
+  painbringer/pain2
+  painbringer/pain3
+  painbringer/pain4
+  painbringer/pain5
+  painbringer/pain6
+  painbringer/pain7
+  painbringer/pain8
+  painbringer/pain9
+  painbringer/pain10
+  painbringer/pain11
+  painbringer/pain12
+  painbringer/pain13
+  painbringer/pain14
+  painbringer/pain15
+  painbringer/pain16
+  painbringer/pain17
+  painbringer/pain18
+  painbringer/pain19
+  painbringer/pain20
+  painbringer/pain21
+  painbringer/pain22
+  painbringer/pain23
+  painbringer/pain24
+  painbringer/pain25
+  painbringer/pain26
+  painbringer/pain27
+  painbringer/pain28
+}
+$volume knight/pain 0.6
+
+painbringer/death1 "Sounds/PainBringer/Death1.ogg"
+painbringer/death2 "Sounds/PainBringer/Death2.ogg"
+painbringer/death3 "Sounds/PainBringer/Death3.ogg"
+painbringer/death4 "Sounds/PainBringer/Death4.ogg"
+painbringer/death5 "Sounds/PainBringer/Death5.ogg"
+painbringer/death6 "Sounds/PainBringer/Death6.ogg"
+painbringer/death7 "Sounds/PainBringer/Death7.ogg"
+painbringer/death8 "Sounds/PainBringer/Death8.ogg"
+painbringer/death9 "Sounds/PainBringer/Death9.ogg"
+
+$random knight/death {
+  painbringer/death1
+  painbringer/death2
+  painbringer/death3
+  painbringer/death4
+  painbringer/death5
+  painbringer/death6
+  painbringer/death7
+  painbringer/death8
+  painbringer/death9
+}
+$volume knight/death 0.6
+
+$alias knight/melee imp/melee
