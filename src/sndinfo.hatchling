@@ -19,6 +19,7 @@ $random skull/idlescream {
   skull/melee
 }
 $volume skull/idlescream 0.6
+$alias skull/active skull/idlescream
 
 hatchling/death1 "Sounds/Hatchling/Death1.ogg"
 hatchling/death2 "Sounds/Hatchling/Death2.ogg"
