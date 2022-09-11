@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "**/src/*": "cpp",
+    "**/src/credits.txt": "plaintext",
+    "**/src/version.txt": "plaintext"
+  }
+}
