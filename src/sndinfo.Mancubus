@@ -160,6 +160,12 @@ combatslug/raiseguns3 "Sounds/CombatSlug/RaiseGuns3.ogg"
 
 // Originally `dsmanatk`.
 $random fatso/raiseguns {
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
+  play/nothing
   combatslug/raiseguns1
   combatslug/raiseguns2
   combatslug/raiseguns3
