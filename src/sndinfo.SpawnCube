@@ -40,8 +40,10 @@ $random putto/death {
 }
 $volume putto/death 0.6
 
-/* There’s also `putto/spit` for when Putto shoots, but I don’t see a reason to
-use it as of now. */
+/*
+ * There’s also `putto/spit` for when Putto shoots, but I don’t see a reason to
+ * use it as of now.
+ */
 
 // $random putto/spit {
 //   putto/spit1

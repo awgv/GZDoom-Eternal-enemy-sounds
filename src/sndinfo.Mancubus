@@ -177,8 +177,10 @@ combatslug/melee2 "Sounds/CombatSlug/Melee2.ogg"
 combatslug/melee3 "Sounds/CombatSlug/Melee3.ogg"
 combatslug/melee4 "Sounds/CombatSlug/Melee4.ogg"
 
-// Originally `dsfwoosh`, but `weapons/smack` (dspunch) is played right before
-// it, so its melee attack is a combination of both.
+/*
+ * Originally `dsfwoosh`, but `weapons/smack` (dspunch) is played right before
+ * it, so its melee attack is a combination of both.
+ */
 $random mancubus/thrust {
   combatslug/melee1
   combatslug/melee2

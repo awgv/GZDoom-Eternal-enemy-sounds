@@ -1,9 +1,10 @@
 version "4.8"
 
 /*
-  HD uses `vile/death` sound only in Freedoom, hence this workaround.
-  https://codeberg.org/mc776/hideousdestructor/src/branch/main/zscript/mob_necromancer.zs#L386
-*/
+ * HD uses `vile/death` sound only in Freedoom, hence this workaround.
+ * https://codeberg.org/mc776/hideousdestructor/src/branch/main/zscript/mob_necromancer.zs#L386
+ */
+
 class NecromancerDeathHandler: EventHandler
 {
     override void WorldThingDied(WorldEvent e)

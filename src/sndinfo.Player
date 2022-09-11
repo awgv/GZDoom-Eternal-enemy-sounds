@@ -1,7 +1,8 @@
 /*
-  `$playeralias` will play `misc/mobland` at full volume regardless of `$volume`
-  for `misc/mobland`, so we have to change the volume of `*land` instead:
-*/
+ * `$playeralias` will play `misc/mobland` at full volume regardless of
+ * `$volume` for `misc/mobland`, so we have to change the volume of
+ * `*land` instead:
+ */
 $volume *land 0.3
 
 $playeralias player male    *land misc/mobland
