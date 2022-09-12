@@ -5,7 +5,19 @@
  */
 $volume *land 0.3
 
-$playeralias player male    *land misc/mobland
-$playeralias player female  *land misc/mobland
-$playeralias player neutral *land misc/mobland
-$playeralias player other   *land misc/mobland
+$playeralias    player    male       *land    misc/mobland
+$playeralias    player    female     *land    misc/mobland
+$playeralias    player    neutral    *land    misc/mobland
+$playeralias    player    other      *land    misc/mobland
+
+/*
+ * For some reason, the above works only if `hd_skin` is set up with the pattern
+ * `hd_skin ActorClass`, and `hd_skin ActorClass,SoundClass,` sets up silent
+ * landing sounds (even though they should default to `*land`). We define
+ * additional aliases to handle this, so if you’re a modder and want your
+ * `hd_skin` to fully support this mod, your `hdskin.LandSound` should be one
+ * of the following:
+ */
+$alias player/hdgal/land misc/mobland $volume player/hdgal/land 0.3
+$alias player/hdguy/land misc/mobland $volume player/hdguy/land 0.3
+$alias player/hdbot/land misc/mobland $volume player/hdbot/land 0.3
