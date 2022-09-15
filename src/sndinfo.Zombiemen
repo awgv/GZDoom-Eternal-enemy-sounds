@@ -159,7 +159,7 @@ $random grunt/pain {
 $volume grunt/pain 0.6
 $alias shotguy/pain grunt/pain
 $alias chainguy/pain grunt/pain
-$alias freshgrunt/pain grunt/sight
+$alias freshgrunt/pain grunt/pain
 
 zombieman/death1 "Sounds/Zombiemen/Death1.ogg"
 zombieman/death2 "Sounds/Zombiemen/Death2.ogg"
@@ -209,4 +209,4 @@ $random grunt/death {
 $volume grunt/death 0.6
 $alias shotguy/death grunt/death
 $alias chainguy/death grunt/death
-$alias freshgrunt/death grunt/sight
+$alias freshgrunt/death grunt/death
