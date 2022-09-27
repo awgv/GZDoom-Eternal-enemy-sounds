@@ -5,39 +5,31 @@ version "4.8"
  * https://codeberg.org/mc776/hideousdestructor/src/branch/main/zscript/mob_necromancer.zs#L386
  */
 
-class NecromancerDeathHandler: EventHandler
+class NecromancerDeathVocalizationUpdater: Thinker
 {
-    override void WorldThingDied(WorldEvent e)
+    Actor Necromancer;
+
+    override void Tick()
     {
-        if (!e.Thing || !(e.Thing is 'Necromancer')) {
-            return;
-        }
+        super.Tick();
 
-        // If playing Freedoom:
-        if (Wads.CheckNumForName("FREEDOOM", 0) != -1) {
-            return;
-        }
-
-        e.Thing.GiveInventory('NecromancerDeathVocalizationUpdater', 1);
+        Necromancer.painsound = "vile/death";
     }
 }
 
-class NecromancerDeathVocalizationUpdater: Inventory
+class NecromancerDeathHandler: EventHandler 
 {
-    default
+    override void WorldThingSpawned(WorldEvent e) 
     {
-        Inventory.MaxAmount 1;
-        +INVENTORY.PERSISTENTPOWER;
-    }
-
-    override void DoEffect()
-    {
-        super.DoEffect();
-        let owner = Necromancer(Owner);
-
-        if (owner is 'Necromancer')
-        {
-            owner.painsound = "vile/death";
+        if (
+            !e.Thing ||
+            !(e.Thing is 'Necromancer') ||
+            Wads.CheckNumForName("FREEDOOM", 0) != -1 // If playing Freedoom.
+        ) {
+            return;
         }
+
+        NecromancerDeathVocalizationUpdater VocalizationUpdater = new("NecromancerDeathVocalizationUpdater");
+        VocalizationUpdater.Necromancer = e.Thing;
     }
 }
