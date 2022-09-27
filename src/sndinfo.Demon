@@ -41,7 +41,7 @@ $random demon/active {
   ninjapirate/active9
   ninjapirate/active10
 }
-$volume demon/active 0.6
+$volume demon/active 0.42
 $alias babuin/active demon/active
 
 ninjapirate/sight1 "Sounds/NinjaPirate/Sight1.ogg"
@@ -79,7 +79,7 @@ $random demon/sight {
   ninjapirate/sight7
   ninjapirate/sight8
 }
-$volume demon/sight 0.6
+$volume demon/sight 0.42
 $alias babuin/sight demon/sight
 
 ninjapirate/pain1 "Sounds/NinjaPirate/Pain1.ogg"
@@ -95,7 +95,7 @@ $random demon/pain {
   ninjapirate/pain4
   ninjapirate/pain5
 }
-$volume demon/pain 0.6
+$volume demon/pain 0.42
 $alias babuin/pain demon/pain
 
 ninjapirate/death1 "Sounds/NinjaPirate/Death1.ogg"
@@ -117,7 +117,7 @@ $random demon/death {
   ninjapirate/death7
   ninjapirate/death8
 }
-$volume demon/death 0.6
+$volume demon/death 0.42
 $alias babuin/death demon/death
 
 ninjapirate/melee1 "Sounds/NinjaPirate/Melee1.ogg"
