@@ -1,0 +1,47 @@
+brain/sight "Sounds/IconOfSin/Sight1.ogg"
+
+iconofsin/pain1 "Sounds/IconOfSin/Pain1.ogg"
+iconofsin/pain2 "Sounds/IconOfSin/Pain2.ogg"
+iconofsin/pain3 "Sounds/IconOfSin/Pain3.ogg"
+iconofsin/pain4 "Sounds/IconOfSin/Pain4.ogg"
+iconofsin/pain5 "Sounds/IconOfSin/Pain5.ogg"
+iconofsin/pain6 "Sounds/IconOfSin/Pain6.ogg"
+iconofsin/pain7 "Sounds/IconOfSin/Pain7.ogg"
+iconofsin/pain8 "Sounds/IconOfSin/Pain8.ogg"
+iconofsin/pain9 "Sounds/IconOfSin/Pain9.ogg"
+
+$random brain/pain {
+  iconofsin/pain1
+  iconofsin/pain2
+  iconofsin/pain3
+  iconofsin/pain4
+  iconofsin/pain5
+  iconofsin/pain6
+  iconofsin/pain7
+  iconofsin/pain8
+  iconofsin/pain9
+}
+
+brain/death "Sounds/IconOfSin/Death1.ogg"
+
+iconofsin/spit1 "Sounds/IconOfSin/Spit1.ogg"
+iconofsin/spit2 "Sounds/IconOfSin/Spit2.ogg"
+iconofsin/spit3 "Sounds/IconOfSin/Spit3.ogg"
+iconofsin/spit4 "Sounds/IconOfSin/Spit4.ogg"
+iconofsin/spit5 "Sounds/IconOfSin/Spit5.ogg"
+iconofsin/spit6 "Sounds/IconOfSin/Spit6.ogg"
+iconofsin/spit7 "Sounds/IconOfSin/Spit7.ogg"
+iconofsin/spit8 "Sounds/IconOfSin/Spit8.ogg"
+iconofsin/spit9 "Sounds/IconOfSin/Spit9.ogg"
+
+$random brain/spit {
+  iconofsin/spit1
+  iconofsin/spit2
+  iconofsin/spit3
+  iconofsin/spit4
+  iconofsin/spit5
+  iconofsin/spit6
+  iconofsin/spit7
+  iconofsin/spit8
+  iconofsin/spit9
+}
